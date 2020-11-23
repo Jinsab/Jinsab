@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jinwoo Kim!
 
 <!--
 **Jinsab/Jinsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my project diving master
+- 🌱 I’m currently learning Unity3D & C# & C++
+Languages
+
+![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsab&layout=compact)](https://github.com/Jinsab/github-readme-stats)
