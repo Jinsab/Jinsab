@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 Languages
 
 
-![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=radical)
-
+![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsab&layout=compact)](https://github.com/Jinsab/github-readme-stats)
