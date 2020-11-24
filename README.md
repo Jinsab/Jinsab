@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my project diving master
-- 🌱 I’m currently learning Unity3D & C# & C++
+- 🌱 I’m currently learning Unity2D and 3D & C# & C++
 Languages
 
 
