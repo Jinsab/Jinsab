@@ -21,9 +21,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my project diving master
-- 🌱 I’m currently learning Unity2D and 3D & C# & C++
-Languages
+- 🔭 I’m currently working on my self-development
+- 🌱 I’m currently learning Unity and C#
+- 😉 I'm studying apps and web as a hobby.
+
+# Languages
+Unity     ■ ■ ■ ■ ■ ■ ■ ■ □ □ (8/10)
+C#        ■ ■ ■ ■ ■ ■ ■ ■ □ □ (8/10)
+C++       ■ ■ ■ ■ ■ □ □ □ □ □ (5/10)
+Python    ■ ■ ■ ■ ■ ■ □ □ □ □ (6/10)
+Java      ■ ■ ■ ■ ■ □ □ □ □ □ (5/10)
 
 
 ![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=default)
