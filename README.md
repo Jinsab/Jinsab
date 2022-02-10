@@ -25,13 +25,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Unity and C#
 - 😉 I'm studying apps and web as a hobby.
 
-# Languages
-Unity     ■ ■ ■ ■ ■ ■ ■ ■ □ □ (8/10)
-C#        ■ ■ ■ ■ ■ ■ ■ ■ □ □ (8/10)
-C++       ■ ■ ■ ■ ■ □ □ □ □ □ (5/10)
-Python    ■ ■ ■ ■ ■ ■ □ □ □ □ (6/10)
-Java      ■ ■ ■ ■ ■ □ □ □ □ □ (5/10)
-
 
 ![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsab&layout=compact)](https://github.com/Jinsab/github-readme-stats)
