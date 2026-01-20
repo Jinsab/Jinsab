@@ -3,7 +3,6 @@
 ### I'm Jinwoo Kim!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinsab%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimjinou/)](https://www.facebook.com/kimjinou/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b01077016039@gmail.com)](mailto:b01077016039@gmail.com)
 [![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white&link=https://www.cakeresume.com/b01077016039?locale=ko)](https://www.cakeresume.com/b01077016039?locale=ko)
 <!--
