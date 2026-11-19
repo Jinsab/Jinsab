@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there!👋&fontSize=90)
+### Jinwoo Kim
+---
 
-### I'm Jinwoo Kim!
+🔭 I work as an Associate at TACSS.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinsab%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b01077016039@gmail.com)](mailto:b01077016039@gmail.com)
-[![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white&link=https://www.cakeresume.com/b01077016039?locale=ko)](https://www.cakeresume.com/b01077016039?locale=ko)
+-  My responsibilities include providing systematic support for the Automobile Damage Compensation Guarantee Business and carrying out inspection duties for mutual aid associations.
+- I am focusing on learning public sector operations and regulatory supervision, and I have a strong interest in data privacy, compliance, and information security roles within companies and institutions.
+
 <!--
 **Jinsab/Jinsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on my self-development
-- 🌱 I’m currently learning Unity and C#
-- 😉 I'm studying apps and web as a hobby.
-
-
-![Jinsab's github stats](https://github-readme-stats.vercel.app/api?username=Jinsab&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinsab&layout=compact)](https://github.com/Jinsab/github-readme-stats)
