@@ -16,23 +16,40 @@
 
 ---
 
-### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on
 - I manage over 7 financial support initiatives under the Victim Support Program.
 - I also handle more than 4 emotional support initiatives under the Victim Support Program.
 
 ---
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 - I am learning to draft official documents and reports that comply with government and institutional regulations.
 - I am practicing how to communicate work standards and procedures with other departments, related agencies, and partners.
 - I am building my skills in planning, administration, and resource management.
 
 ---
 
-### 💬 Interests & Personal
+### 💬 Beyond Work
 - Daily TIL Journaling: Documenting daily tech insights and workflow improvements
+- Side Projects: Tinkering with Unity 2D, shaders, and structured system design
 - Home Café Brewing: Experimenting with milk tea ratios and syrup recipes
 - Strategy & Roguelike Games: Exploring complex game mechanics and optimization
+
+---
+
+### 🤔 Motto
+- Breaking down complex problems into clean, structured solutions.
+
+---
+
+### 🛠️ Tools & Stack
+- Dev & Scripting: C#, Unity, SQL, Git
+- Productivity & Docs: Notion, Figma, Excel (Data Validation & Automation)
+
+---
+
+### ⚡ Fun fact
+- I’m a big fan of PC games, especially deep strategy and roguelike titles.
 
 ---
 <!--
