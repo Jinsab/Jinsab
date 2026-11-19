@@ -1,7 +1,7 @@
 ### Jinwoo Kim
 ---
 
-🔭 I work as an Associate at TACSS.
+I work as an Associate at [TACSS](https://tacss.or.kr).
 
 -  My responsibilities include providing systematic support for the Automobile Damage Compensation Guarantee Business and carrying out inspection duties for mutual aid associations.
 - I am focusing on learning public sector operations and regulatory supervision, and I have a strong interest in data privacy, compliance, and information security roles within companies and institutions.
