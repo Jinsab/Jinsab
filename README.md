@@ -9,6 +9,13 @@
 
 ---
 
+### Experience Overview
+ - Public Sector Administration  | 2 years
+ - IT System Integration (SI)    | 1 year 1 month
+ - IT Solutions                  | 3 months
+
+---
+
 ### 🔭 I’m currently working on ...
 - I manage over 7 financial support initiatives under the Victim Support Program.
 - I also handle more than 4 emotional support initiatives under the Victim Support Program.
@@ -20,7 +27,14 @@
 - I am practicing how to communicate work standards and procedures with other departments, related agencies, and partners.
 - I am building my skills in planning, administration, and resource management.
 
+---
 
+### 💬 Interests & Personal
+- Daily TIL Journaling: Documenting daily tech insights and workflow improvements
+- Home Café Brewing: Experimenting with milk tea ratios and syrup recipes
+- Strategy & Roguelike Games: Exploring complex game mechanics and optimization
+
+---
 <!--
 **Jinsab/Jinsab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
